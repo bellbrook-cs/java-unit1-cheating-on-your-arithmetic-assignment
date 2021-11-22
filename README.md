@@ -2,9 +2,23 @@
 
 ## Problem Statement
 
-## Input Description
+Calculate and print the results of the following arithmetic problems:
 
-## Sample Input/Output
+```
+79 + 3 * (4 + 82 – 68) – 7 + 19
+(179 + 21 + 10) / 7 + 181
+10389 * 56 * 11 + 2246
+```
+
+The printout should look like: 
+
+```
+79 + 3 * (4 + 82 - 68) - 7 + 19 = ?
+(179 + 21 + 10) / 7 + 181 = ?
+10389 * 56 * 11 + 2246 = ?
+```
+
+Where the `?` are replaced with the actual solution to each problem.
 
 ## Submission
 
