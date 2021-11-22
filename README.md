@@ -1,4 +1,4 @@
-# Template Assignment
+# Cheating on Your Arithmetic Assignment
 
 ## Problem Statement
 
